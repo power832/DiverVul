@@ -1,2 +1,2 @@
-# DIVERLLM
-data
+# DiverVul
+The work of DiverVul
